@@ -1,5 +1,6 @@
 == README
 study ruby!
+201605140002
 
 * Ruby version
 
